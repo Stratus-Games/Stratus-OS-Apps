@@ -2,19 +2,19 @@
   {
     "name": "Learn To Fly",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly/index.png",
-    "size": "900KB",
+    "size": "28MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly/DF.json"
   },
   {
     "name": "Learn To Fly 2",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%202/index.png",
-    "size": "5MB",
+    "size": "31MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%202/DF.json"
   },
   {
     "name": "Learn To Fly 3",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%203/index.png",
-    "size": "20MB",
+    "size": "46MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%203/DF.json"
   }
 ]

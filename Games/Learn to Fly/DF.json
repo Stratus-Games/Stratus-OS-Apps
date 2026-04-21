@@ -1,9 +1,9 @@
-[
-  {
+ {
     "name": "Learn To Fly",
     "store": "apps/learn to fly",
-    "asset": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly/index.html",
-    "asset": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly/game.swf",
-    "start": "index.html"
+    "assets": [
+      "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly/index.html",
+      "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly/game.swf"
+    ],
+   "start": "index.html"
   }
-]

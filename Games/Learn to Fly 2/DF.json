@@ -1,0 +1,8 @@
+{
+  "name": "Learn to Fly 2",
+  "assets": [
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%202/index.html",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%202/game.swf"
+  ],
+  "start": "index.html"
+}

@@ -33,6 +33,6 @@
     "name": "Smash Remix",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Smash%20Remix/icon.png",
     "size": "350MB",
-    "install": "https://cdn.jsdelivr.net/gh/Stratus-Games/Stratus-OS-Apps@main/Games/Smash%20Remix/DF.json"
+    "install": "https://raw.githack.com/Stratus-Games/Stratus-OS-Apps/main/Games/Smash%20Remix/DF.json"
   }
 ]

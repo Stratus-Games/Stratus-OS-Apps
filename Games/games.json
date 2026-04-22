@@ -16,11 +16,5 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%203/index.png",
     "size": "46MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%203/DF.json"
-  },
-  {
-    "name": "Hollow Knight",
-    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Hollow%20Knight/index.png",
-    "size": "1GB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Hollow%20Knight/DF.json"
   }
 ]

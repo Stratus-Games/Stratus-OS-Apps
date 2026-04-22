@@ -16,5 +16,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%203/index.png",
     "size": "46MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%203/DF.json"
+  },
+  {
+    "name": "1 on 1 Soccer",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1%20on%201%20Soccer/icon.png",
+    "size": "26MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1%20on%201%20Soccer/DF.json"
   }
 ]

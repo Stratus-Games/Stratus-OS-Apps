@@ -10,6 +10,8 @@
   "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Smash%20Remix/Smash_Remix_2.0.0.z64.part4",
   "path": "./",
   "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Smash%20Remix/index.html",
+  "path": "./data/",
+  "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/EM/data/loader.js",
     "path", "./data/",
     "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/EM/data/version.json",
     "path", "./data/src/",

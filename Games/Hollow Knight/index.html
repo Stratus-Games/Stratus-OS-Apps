@@ -10,7 +10,7 @@
 <link rel="shortcut icon" href="TemplateData/favicon.ico">
 <link rel="stylesheet" href="TemplateData/style.css">
 
-<!-- ✅ Proper Preload -->
+<!-- Preload -->
 <link rel="preload" href="Build/hktruffled.loader.js" as="script">
 <link rel="preload" href="Build/hktruffled.framework.js" as="script">
 <link rel="preload" href="Build/hktruffled.data" as="fetch" crossorigin>
@@ -32,14 +32,20 @@ html, body {
     top: 0;
     left: 0;
 }
+
+#loading-text {
+    color: white;
+    font-size: 48px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 20px;
+}
 </style>
 </head>
 
 <body>
 
-<div id="loading-text" style="color: white; font-size: 48px; font-family: cursive; text-align: center; margin-top: 20px;">
-LOADING...
-</div>
+<div id="loading-text">LOADING...</div>
 
 <div hidden id="unity-container" class="unity-desktop">
     <canvas id="unity-canvas"></canvas>
@@ -50,17 +56,13 @@ LOADING...
             <div id="unity-progress-bar-full"></div>
         </div>
     </div>
-
-    <div id="unity-mobile-warning">
-        WebGL builds are not supported on mobile devices.
-    </div>
 </div>
 
 <script>
 var loadingText = document.querySelector("#loading-text");
 let loadedBytes = 0;
 
-// ✅ Keep progress tracking (no caching)
+// Progress fetch
 async function fetchWithProgress(url) {
     const response = await fetch(url);
     const reader = response.body.getReader();
@@ -77,9 +79,7 @@ async function fetchWithProgress(url) {
         chunks.push(value);
 
         let mbDone = (loadedBytes / (1024 * 1024)).toFixed(2);
-        let mbTotal = '912.81';
-
-        loadingText.textContent = `LOADING... ${mbDone} MB / ${mbTotal} MB`;
+        loadingText.textContent = `LOADING... ${mbDone} MB`;
     }
 
     let fullBuffer = new Uint8Array(received);
@@ -93,7 +93,7 @@ async function fetchWithProgress(url) {
     return fullBuffer.buffer;
 }
 
-// ✅ Merge WITHOUT caching
+// Merge parts
 async function mergeFiles(fileParts) {
     const buffers = await Promise.all(
         fileParts.map(part => fetchWithProgress(part))
@@ -130,21 +130,30 @@ function getParts(file, start, end) {
     };
 
     var container = document.querySelector("#unity-container");
-    container.hidden = false;
-
     var canvas = document.querySelector("#unity-canvas");
     var loadingBar = document.querySelector("#unity-loading-bar");
     var progressBarFull = document.querySelector("#unity-progress-bar-full");
-    var mobileWarning = document.querySelector("#unity-mobile-warning");
 
-    if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
-        container.className = "unity-mobile";
-        config.devicePixelRatio = 1;
+    // ─────────────────────────────────────
+    // FIXED DEVICE DETECTION (NO UA BLOCK)
+    // ─────────────────────────────────────
+    const isTouchDevice =
+        ('ontouchstart' in window && navigator.maxTouchPoints > 1);
 
-        mobileWarning.style.display = "block";
-        setTimeout(() => mobileWarning.style.display = "none", 5000);
+    const hasWebGL2 = (() => {
+        try {
+            const c = document.createElement("canvas");
+            return !!window.WebGL2RenderingContext &&
+                   !!c.getContext("webgl2");
+        } catch {
+            return false;
+        }
+    })();
 
-    } else {
+    // Always treat as desktop unless WebGL is missing
+    const isMobileBlock = isTouchDevice && !hasWebGL2;
+
+    if (!isMobileBlock) {
         function resizeCanvas() {
             canvas.width = window.innerWidth;
             canvas.height = window.innerHeight;
@@ -153,6 +162,7 @@ function getParts(file, start, end) {
         window.addEventListener('resize', resizeCanvas);
     }
 
+    container.hidden = false;
     loadingBar.style.display = "block";
 
     var script = document.createElement("script");

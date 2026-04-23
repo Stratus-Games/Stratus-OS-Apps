@@ -60,9 +60,9 @@
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Links%20Awakening/DF.json"
   },
   {
-    "name": "The Legend of Zelda: Oracle of Time",
-    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Links%20Awakening/icon.png",
-    "size": "270MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Links%20Awakening/DF.json"
+    "name": "The Legend of Zelda: Oracle of Ages",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Oracle%20of%20Ages/icon.png",
+    "size": "270",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Oracle%20of%20Ages/DF.json"
   }
 ]

@@ -52,5 +52,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Ocarina%20of%20Time/icon.png",
     "size": "280",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Ocarina%20of%20Time/DF.json"
+  },
+  {
+    "name": "The Legend of Zelda: Links Awakening",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Links%20Awakening/icon.png",
+    "size": "270",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Links%20Awakening/DF.json"
   }
 ]

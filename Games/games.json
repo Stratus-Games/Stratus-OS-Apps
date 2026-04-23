@@ -42,9 +42,15 @@
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Super%20Smash%20Bros/DF.json"
   },
   {
-    "name": "The legend of Zelda: Majora's Mask",
+    "name": "The Legend of Zelda: Majora's Mask",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Majora's%20Mask/icon.png",
     "size": "280MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Majora's%20Mask/DF.json"
+  },
+  {
+    "name": "The Legend of Zelda: Ocarinaof Time",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Ocarina%20of%20Time/icon.png",
+    "size": "280",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Ocarina%20of%20Time/DF.json"
   }
 ]

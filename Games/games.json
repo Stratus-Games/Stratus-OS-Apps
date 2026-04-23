@@ -34,5 +34,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Smash%20Remix/icon.png",
     "size": "350MB",
     "install": "https://raw.githack.com/Stratus-Games/Stratus-OS-Apps/main/Games/Smash%20Remix/DF.json"
+  },
+  {
+    "name": "Super Smash Bro",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Super%20Smash%20Bros/ico.png",
+    "size": "275MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Super%20Smash%20Bros/DF.json"
   }
 ]

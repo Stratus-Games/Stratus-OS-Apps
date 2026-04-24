@@ -82,5 +82,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1v1%20Tennis/icon.png",
     "size": "26MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1v1%20Tennis/DF.json"
+  },
+  {
+    "name": "A Koopas Revenge 2",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge%202/icon.png",
+    "size": "26MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge%202/DF.json"
   }
 ]

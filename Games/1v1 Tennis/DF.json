@@ -1,0 +1,28 @@
+{
+  "name": "1v1 Tennis",
+  "assets": [
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1v1%20Tennis/1-on-1-tennis.swf",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1v1%20Tennis/icon.png",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1v1%20Tennis/index.html",
+     "path": "./R/",
+     "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/R/8be78cd3c38fbcb61f10.wasm",
+     "path": "./R/",
+     "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/R/c9f7a016a10a9ec9feb1.wasm",
+     "path": "./R/",
+     "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/R/core.ruffle.62a422657140b899b4f1.js",
+     "path": "./R/",
+     "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/R/core.ruffle.62a422657140b899b4f1.js.map",
+     "path": "./R/",
+     "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/R/core.ruffle.6c01bf34b16fe6aa11db.js",
+     "path": "./R/",
+     "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/R/core.ruffle.6c01bf34b16fe6aa11db.js.map",
+     "path": "./R/",
+     "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/R/ruffle.js",
+     "path": "./R/",
+     "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/R/ruffle.js.map"
+  ],
+  "start": "index.html"
+}

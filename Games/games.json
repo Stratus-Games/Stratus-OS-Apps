@@ -94,5 +94,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge/icon.png",
     "size": "26MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge/DF.json"
+  },
+  {
+    "name": "Hollow Knight",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Hollow%20Knight/index.png",
+    "size": "1G",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Hollow%20Knight/DF.json"
   }
 ]

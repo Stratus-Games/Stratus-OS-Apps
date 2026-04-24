@@ -70,5 +70,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20%20Oracle%20of%20%20Seasons/icon.png",
     "size": "270MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20%20Oracle%20of%20%20Seasons/DF.json"
+  },
+  {
+    "name": "Geometry Dash",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Geometry%20Dash/icon.jpg",
+    "size": "90MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Geometry%20Dash/DF.json"
   }
 ]

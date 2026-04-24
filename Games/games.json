@@ -99,12 +99,6 @@
     "name": "Hollow Knight",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Hollow%20Knight/index.png",
     "size": "1G",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Hollow%20Knight/DF.json"
-  },
-  {
-    "name": "Fake",
-    "icon": "fake",
-    "size": "error",
-    "install": ""
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Hollow%20Knight/DF1.json"
   }
 ]

@@ -114,9 +114,9 @@
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/DF.json"
   },
   {
-    "name": "sdhsgdyg",
-    "icon": "hjgdbujd",
-    "size": "kjdgbisudj",
-    "install": "gsjhgsyd"
+    "name": "Tanks 3D",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/3D%20Tanks/index.png",
+    "size": "27MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/3D%20Tanks/DF.json"
   }
 ]

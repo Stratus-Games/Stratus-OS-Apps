@@ -130,5 +130,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B%3A%205*30/index.png",
     "size": "28MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B%3A%205*30/DF.json"
+  },
+  {
+    "name": "8 Ball Pool",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/8%20Ball%20Pool/index.png",
+    "size": "26MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/8%20Ball%20Pool/DF.json"
   }
 ]

@@ -1,6 +1,6 @@
 {
   "name": "3D Tanks",
-  "assets": "[
+  "assets": [
     "path": "./",
     "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/3D%20Tanks/game.swf",
     "path": "./",

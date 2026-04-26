@@ -1,103 +1,233 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | Easter Night</title>
-    <link rel="shortcut icon" href="TemplateData/favicon.ico">
-    <link rel="stylesheet" href="TemplateData/style.css">
-    <link rel="manifest" href="manifest.webmanifest">
-  </head>
-  <body>
-    <div id="unity-container">
-      <canvas id="unity-canvas" width=960 height=600 tabindex="-1"></canvas>
-      <div id="unity-loading-bar">
-        <div id="unity-logo"></div>
-        <div id="unity-progress-bar-empty">
-          <div id="unity-progress-bar-full"></div>
-        </div>
-      </div>
-      <div id="unity-warning"> </div>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+<title>Unity WebGL Player | Easter Night</title>
+
+<link rel="shortcut icon" href="TemplateData/favicon.ico">
+<link rel="stylesheet" href="TemplateData/style.css">
+
+<style>
+#loading-text {
+  color: white;
+  font-size: 36px;
+  text-align: center;
+  margin-top: 20px;
+}
+</style>
+<style>
+#loading-text {
+  color: rgb(0, 0, 0);
+  font-size: 42px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-align: center;
+  margin-top: 20px;
+}
+</style>
+</head>
+
+<body>
+
+<div id="loading-text">LOADING... 0 MB / 48.1 MB</div>
+
+<div id="unity-container">
+  <canvas id="unity-canvas" width=960 height=600 tabindex="-1"></canvas>
+
+  <div id="unity-loading-bar">
+    <div id="unity-logo"></div>
+    <div id="unity-progress-bar-empty">
+      <div id="unity-progress-bar-full"></div>
     </div>
-    <script>
-      window.addEventListener("load", function () {
-        if ("serviceWorker" in navigator) {
-          navigator.serviceWorker.register("ServiceWorker.js");
-        }
-      });
+  </div>
 
-      var container = document.querySelector("#unity-container");
-      var canvas = document.querySelector("#unity-canvas");
-      var loadingBar = document.querySelector("#unity-loading-bar");
-      var progressBarFull = document.querySelector("#unity-progress-bar-full");
-      var warningBanner = document.querySelector("#unity-warning");
+  <div id="unity-warning"></div>
+</div>
 
-      // Shows a temporary message banner/ribbon for a few seconds, or
-      // a permanent error message on top of the canvas if type=='error'.
-      // If type=='warning', a yellow highlight color is used.
-      // Modify or remove this function to customize the visually presented
-      // way that non-critical warnings and error messages are presented to the
-      // user.
-      function unityShowBanner(msg, type) {
-        function updateBannerVisibility() {
-          warningBanner.style.display = warningBanner.children.length ? 'block' : 'none';
-        }
-        var div = document.createElement('div');
-        div.innerHTML = msg;
-        warningBanner.appendChild(div);
-        if (type == 'error') div.style = 'background: red; padding: 10px;';
-        else {
-          if (type == 'warning') div.style = 'background: yellow; padding: 10px;';
-          setTimeout(function() {
-            warningBanner.removeChild(div);
-            updateBannerVisibility();
-          }, 5000);
-        }
-        updateBannerVisibility();
+<script>
+// ===== IndexedDB =====
+const DB_NAME = "cachedb";
+const STORE_NAME = "files";
+
+function openCacheDB() {
+  return new Promise((resolve, reject) => {
+    const req = indexedDB.open(DB_NAME, 1);
+    req.onupgradeneeded = () => {
+      const db = req.result;
+      if (!db.objectStoreNames.contains(STORE_NAME)) {
+        db.createObjectStore(STORE_NAME);
       }
+    };
+    req.onsuccess = () => resolve(req.result);
+    req.onerror = () => reject(req.error);
+  });
+}
 
-      var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/Easter-Night.loader.js";
-      var config = {
-        dataUrl: buildUrl + "/Easter-Night.data",
-        frameworkUrl: buildUrl + "/Easter-Night.framework.js",
-        codeUrl: buildUrl + "/Easter-Night.wasm",
-        streamingAssetsUrl: "StreamingAssets",
-        companyName: "RosenshineGames",
-        productName: "Easter Night",
-        productVersion: "0.1",
-        showBanner: unityShowBanner,
-      };
+async function saveToCache(key, blob) {
+  const db = await openCacheDB();
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction(STORE_NAME, "readwrite");
+    tx.objectStore(STORE_NAME).put(blob, key);
+    tx.oncomplete = resolve;
+    tx.onerror = () => reject(tx.error);
+  });
+}
 
-      // By default Unity keeps WebGL canvas render target size matched with
-      // the DOM size of the canvas element (scaled by window.devicePixelRatio)
-      // Set this to false if you want to decouple this synchronization from
-      // happening inside the engine, and you would instead like to size up
-      // the canvas DOM size and WebGL render target sizes yourself.
-      // config.matchWebGLToCanvasSize = false;
+async function loadFromCache(key) {
+  const db = await openCacheDB();
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction(STORE_NAME, "readonly");
+    const req = tx.objectStore(STORE_NAME).get(key);
+    req.onsuccess = () => resolve(req.result || null);
+    req.onerror = () => reject(req.error);
+  });
+}
 
-      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
-        // Mobile device style: fill the whole browser client area with the game canvas:
-        var meta = document.createElement('meta');
-        meta.name = 'viewport';
-        meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
-        document.getElementsByTagName('head')[0].appendChild(meta);
-      }
+async function deleteFromCache(key) {
+  const db = await openCacheDB();
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction(STORE_NAME, "readwrite");
+    tx.objectStore(STORE_NAME).delete(key);
+    tx.oncomplete = resolve;
+    tx.onerror = () => reject(tx.error);
+  });
+}
+</script>
 
-      loadingBar.style.display = "block";
+<script>
+// ===== Progress =====
+let loadedBytes = 0;
+const totalMB = 48.1;
+const loadingText = document.getElementById("loading-text");
 
-      var script = document.createElement("script");
-      script.src = loaderUrl;
-      script.onload = () => {
-        createUnityInstance(canvas, config, (progress) => {
-          progressBarFull.style.width = 100 * progress + "%";
-        }).then((unityInstance) => {
-          loadingBar.style.display = "none";
-        }).catch((message) => {
-          alert(message);
-        });
-      };
-      document.body.appendChild(script);
-    </script>
-  </body>
+function updateProgress(bytes) {
+  loadedBytes += bytes;
+  let mbDone = (loadedBytes / (1024 * 1024)).toFixed(2);
+  loadingText.textContent = `LOADING... ${mbDone} MB / ${totalMB} MB`;
+}
+
+// ===== Fetch =====
+async function fetchWithProgress(url) {
+  const response = await fetch(url);
+  const reader = response.body.getReader();
+
+  let chunks = [];
+  let received = 0;
+
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) break;
+
+    chunks.push(value);
+    received += value.length;
+    updateProgress(value.length);
+  }
+
+  let fullBuffer = new Uint8Array(received);
+  let offset = 0;
+
+  for (let chunk of chunks) {
+    fullBuffer.set(chunk, offset);
+    offset += chunk.length;
+  }
+
+  return fullBuffer.buffer;
+}
+
+// ===== Merge =====
+async function mergeFiles(fileParts, cacheKey) {
+  const cached = await loadFromCache(cacheKey);
+  if (cached) {
+    return URL.createObjectURL(cached);
+  }
+
+  const buffers = await Promise.all(
+    fileParts.map(part => fetchWithProgress(part))
+  );
+
+  const mergedBlob = new Blob(buffers);
+  await saveToCache(cacheKey, mergedBlob);
+
+  return URL.createObjectURL(mergedBlob);
+}
+
+// ===== Parts helper =====
+function getParts(file, start, end) {
+  let parts = [];
+  for (let i = start; i <= end; i++) {
+    parts.push(file + ".part" + i);
+  }
+  return parts;
+}
+</script>
+
+<script>
+window.addEventListener("load", function () {
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("ServiceWorker.js");
+  }
+});
+
+var container = document.querySelector("#unity-container");
+var canvas = document.querySelector("#unity-canvas");
+var loadingBar = document.querySelector("#unity-loading-bar");
+var progressBarFull = document.querySelector("#unity-progress-bar-full");
+var warningBanner = document.querySelector("#unity-warning");
+
+function unityShowBanner(msg, type) {
+  var div = document.createElement('div');
+  div.innerHTML = msg;
+  warningBanner.appendChild(div);
+  if (type == 'error') div.style = 'background:red;padding:10px;';
+}
+
+// ===== MAIN =====
+(async () => {
+
+  const buildUrl = "Build";
+  const loaderUrl = buildUrl + "/Easter-Night.loader.js";
+
+  // ONLY wasm is split
+  const wasmUrl = await mergeFiles(
+    getParts(buildUrl + "/Easter-Night.wasm", 1, 2),
+    "en.wasm"
+  );
+
+  const config = {
+    dataUrl: buildUrl + "/Easter-Night.data",
+    frameworkUrl: buildUrl + "/Easter-Night.framework.js",
+    codeUrl: wasmUrl,
+    streamingAssetsUrl: "StreamingAssets",
+    companyName: "Stratus Games",
+    productName: "Easter Night",
+    productVersion: "0.1",
+    showBanner: unityShowBanner,
+  };
+
+  loadingBar.style.display = "block";
+
+  const script = document.createElement("script");
+  script.src = loaderUrl;
+
+  script.onload = () => {
+    createUnityInstance(canvas, config, (progress) => {
+      progressBarFull.style.width = (progress * 100) + "%";
+    }).then(() => {
+      loadingText.remove();
+      loadingBar.style.display = "none";
+    }).catch(async (err) => {
+      await deleteFromCache("en.wasm");
+      alert(err);
+    });
+  };
+
+  document.body.appendChild(script);
+
+})();
+</script>
+
+</body>
 </html>

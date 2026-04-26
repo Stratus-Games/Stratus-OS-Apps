@@ -1,0 +1,38 @@
+{
+  "name": "Easter Night",
+  "assets": [
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/index.html",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/ServiceWorker.js",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/icon.png",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/Build/Easter-Night.data",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/Build/Easter-Night.framework.js",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/Build/Easter-Night.loader.js",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/Build/Easter-Night.wasm.part1",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/Build/Easter-Night.wasm.part2",
+    "path": "./StreamingAssets/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/StreamingAssets/intro.mp4",
+    "path": "./TemplateData/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/TemplateData/favicon.ico",
+    "path": "./TemplateData/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/TemplateData/progress-bar-empty-dark.png",
+    "path": "./TemplateData/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/TemplateData/progress-bar-empty-light.png",
+    "path": "./TemplateData/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/TemplateData/progress-bar-full-dark.png",
+    "path": "./TemplateData/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/TemplateData/progress-bar-full-light.png",
+    "path": "./TemplateData/icons/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/TemplateData/unity-logo-dark.png",
+    "path": "./TemplateData/icons/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/TemplateData/unity-logo-light.png"
+  ]
+  "start": "index.html"
+}

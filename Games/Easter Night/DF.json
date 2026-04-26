@@ -3,6 +3,8 @@
   "assets": [
     "path": "./",
     "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/index.html",
+    "path": "./TemplateData/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/TemplateData/style.css",
     "path": "./",
     "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/ServiceWorker.js",
     "path": "./",

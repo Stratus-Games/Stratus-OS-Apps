@@ -136,5 +136,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/8%20Ball%20Pool/index.png",
     "size": "26MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/8%20Ball%20Pool/DF.json"
+  },
+  {
+    "name": "Abandoned",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Abandoned/index.png",
+    "size": "34MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Abandoned/DF.json"
   }
 ]

@@ -166,5 +166,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War%202/index.png",
     "size": "37MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War%202/DFs.json"
+  },
+  {
+    "name": "Age of War 3",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War%203/index.jpg",
+    "size": "37MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War%203/DF.json"
   }
 ]

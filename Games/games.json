@@ -178,5 +178,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War/index.png",
     "size": "30MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War/DF.json"
+  },
+  {
+    "name": "Alien Hominid",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Alien%20Hominid/index.png",
+    "size": "28MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Alien%20Hominid/DF.json"
   }
 ]

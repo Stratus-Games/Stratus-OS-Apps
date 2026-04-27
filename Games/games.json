@@ -142,5 +142,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Abandoned/index.png",
     "size": "34MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Abandoned/DF.json"
+  },
+  {
+    "name": "Achievement Unlocked 2",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%202/index.png",
+    "size": "29MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%202/DF.json"
   }
 ]

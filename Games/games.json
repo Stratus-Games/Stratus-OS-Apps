@@ -98,7 +98,7 @@
   {
     "name": "Hollow Knight",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Hollow%20Knight/index.png",
-    "size": "1G",
+    "size": "1GB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Hollow%20Knight/DF.json"
   },
   {
@@ -190,5 +190,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%202/index.png",
     "size": "31MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%202/DF.json"
+  },
+  {
+    "name": "Amigo Pancho 3",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%203/index.png",
+    "size": "36MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%203/DF.json"
   }
 ]

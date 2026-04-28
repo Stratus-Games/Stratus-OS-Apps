@@ -208,5 +208,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%205/index.png",
     "size": "37MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%205/DF.json"
+  },
+  {
+    "name": "Amanda The Adventurer",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amanda%20The%20Adventurer/index.jpg",
+    "size": "1.5GB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amanda%20The%20Adventurer/DF.json"
   }
 ]

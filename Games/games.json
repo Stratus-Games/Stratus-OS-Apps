@@ -238,5 +238,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Angry%20Birds%20Space/index.png",
     "size": "37MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Angry%20Birds%20Space/DF.json"
+  },
+  {
+    "name": "Arthur's Nightmare",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Arthur's%20Nightmare/index.png",
+    "size": "100MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Arthur's%20Nightmare/DF.json"
   }
 ]

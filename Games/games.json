@@ -250,5 +250,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks%202/index.png",
     "size": "33MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks%202/DF.json"
+  },
+  {
+    "name": "Awesome Tanks",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks/index.png",
+    "size": "31MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks/DF.json"
   }
 ]

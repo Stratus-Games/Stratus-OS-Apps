@@ -244,5 +244,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Arthur's%20Nightmare/index.png",
     "size": "100MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Arthur's%20Nightmare/DF.json"
+  },
+  {
+    "name": "Awesome Tanks 2",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks%202/index.png",
+    "size": "33MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks%202/DF.json"
   }
 ]

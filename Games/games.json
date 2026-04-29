@@ -268,5 +268,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BLOODMONEY/index.jpg",
     "size": "150MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BLOODMONEY/DF.json"
+  },
+  {
+    "name": "Baldi's Basics Remastered",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/index.jpg",
+    "size": "107MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/DF.json"
   }
 ]

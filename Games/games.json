@@ -4,275 +4,411 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly/index.png",
     "size": "28MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly/DF.json"
+    "type": "Flash",
+    "maker": "Marie Prevost",
   },
   {
     "name": "Learn To Fly 2",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%202/index.png",
     "size": "31MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%202/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%202/DF.json",
+    "type": "Flash",
+    "maker": "Marie Prevost"
   },
   {
     "name": "Learn To Fly 3",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%203/index.png",
     "size": "46MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%203/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%203/DF.json",
+    "type": "Flash",
+    "maker": "Marie Prevost"
   },
   {
     "name": "1 on 1 Soccer",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1%20on%201%20Soccer/icon.png",
     "size": "26MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1%20on%201%20Soccer/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1%20on%201%20Soccer/DF.json",
+    "type": "Flash",
+    "maker": "FlashFooty"
   },
   {
     "name": "10 Bullets",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10%20Bullets/index.png",
     "size": "26MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10%20Bullets/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10%20Bullets/DF.json",
+    "type": "Flash",
+    "maker": "Michel Gerard"
   },
   {
     "name": "Smash Remix",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Smash%20Remix/icon.png",
     "size": "350MB",
-    "install": "https://raw.githack.com/Stratus-Games/Stratus-OS-Apps/main/Games/Smash%20Remix/DF.json"
+    "install": "https://raw.githack.com/Stratus-Games/Stratus-OS-Apps/main/Games/Smash%20Remix/DF.json",
+    "type": "Emulator",
+    "type": "N64",
+    "type": "Retro",
+    "type": "Fighting",
+    "type": "MOD",
+    "maker": "MarioReincarnate"
   },
   {
     "name": "Super Smash Bro",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Super%20Smash%20Bros/ico.png",
     "size": "275MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Super%20Smash%20Bros/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Super%20Smash%20Bros/DF.json",
+    "type": "Emulator",
+    "type": "N64",
+    "type": "Retro",
+    "type": "Fighting",
+    "maker": "Nintendo"
   },
   {
     "name": "The Legend of Zelda: Majora's Mask",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Majora's%20Mask/icon.png",
     "size": "280MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Majora's%20Mask/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Majora's%20Mask/DF.json",
+    "type": "Emulator",
+    "type": "N64",
+    "type": "Retro",
+    "type": "Action",
+    "maker": "Nintendo"
   },
   {
     "name": "The Legend of Zelda: Ocarina of Time",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Ocarina%20of%20Time/icon.png",
     "size": "280MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Ocarina%20of%20Time/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Ocarina%20of%20Time/DF.json",
+    "type": "Emulator",
+    "type": "N64",
+    "type": "Action",
+    "maker": "Nintendo"
   },
   {
     "name": "The Legend of Zelda: Links Awakening",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Links%20Awakening/icon.png",
     "size": "270MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Links%20Awakening/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Links%20Awakening/DF.json",
+    "type": "Emulator",
+    "type": "Game Boy",
+    "type": "Action",
+    "type": "2D",
+    "maker": "Nintendo"
   },
   {
     "name": "The Legend of Zelda: Oracle of Ages",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Oracle%20of%20Ages/icon.png",
     "size": "270MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Oracle%20of%20Ages/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Oracle%20of%20Ages/DF.json",
+    "type": "Emulator",
+    "type": "Game Boy",
+    "type": "2D",
+    "type": "Action",
+    "maker": "Nintendo"
   },
   {
     "name": "The Legend of Zelda: Oracle of Seasons",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20%20Oracle%20of%20%20Seasons/icon.png",
     "size": "270MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20%20Oracle%20of%20%20Seasons/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20%20Oracle%20of%20%20Seasons/DF.json",
+    "type": "Emulator",
+    "type": "Game Boy",
+    "type": "2D",
+    "type": "Action",
+    "maker": "Nintendo"
   },
   {
     "name": "Geometry Dash",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Geometry%20Dash/icon.jpg",
     "size": "90MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Geometry%20Dash/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Geometry%20Dash/DF.json",
+    "type": "2D",
+    "type": "Action",
+    "maker": "Robert Topala"
   },
   {
     "name": "1v1 Tennis",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1v1%20Tennis/icon.png",
     "size": "26MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1v1%20Tennis/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1v1%20Tennis/DF.json",
+    "type": "Flash",
+    "type": "Action",
+    "maker": "Neutronized"
   },
   {
     "name": "A Koopas Revenge 2",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge%202/icon.png",
     "size": "26MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge%202/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge%202/DF.json",
+    "type": "Flash",
+    "type": "Action",
+    "type": "2D",
+    "maker": "Lambtaco"
   },
   {
     "name": "A Koopas Revenge",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge/icon.png",
     "size": "26MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge/DF.json",
+    "type": "Flash",
+    "type": "Action",
+    "type": "2D",
+    "maker": "Lambtaco"
   },
   {
     "name": "Hollow Knight",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Hollow%20Knight/index.png",
     "size": "1GB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Hollow%20Knight/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Hollow%20Knight/DF.json",
+    "type": "Metrovania",
+    "type": "Action",
+    "type": "2D",
+    "maker": "Team Cherry"
   },
   {
     "name": "Domestic Fears",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Domestic%20Fears/icon.jpg",
     "size": "53MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Domestic%20Fears/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Domestic%20Fears/DF.json",
+    "type": "Horror",
+    "type": "3D",
+    "maker": "RosenshineGames"
   },
   {
     "name": "Easter Night",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/icon.png",
     "size": "50.5MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/DF.json",
+    "type": "Horror",
+    "type": "3D",
+    "maker": "RosenshineGames"
   },
   {
     "name": "Tanks 3D",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/3D%20Tanks/index.png",
     "size": "27MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/3D%20Tanks/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/3D%20Tanks/DF.json",
+    "type": "Flash",
+    "maker": "yp3d"
   },
   {
     "name": "5B",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B/index.png",
     "size": "27MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B/DF.json",
+    "type": "Flash",
+    "maker": "Cary Huang"
   },
   {
     "name": "5B: 5*30",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B%3A%205*30/index.png",
     "size": "28MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B%3A%205*30/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B%3A%205*30/DF.json",
+    "type": "Flash",
+    "maker": "Cary Huang"
   },
   {
     "name": "8 Ball Pool",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/8%20Ball%20Pool/index.png",
     "size": "26MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/8%20Ball%20Pool/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/8%20Ball%20Pool/DF.json",
+    "type": "Flash",
+    "maker": "Miniclip"
   },
   {
     "name": "Abandoned",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Abandoned/index.png",
     "size": "34MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Abandoned/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Abandoned/DF.json",
+    "type": "Flash",
+    "maker": "Igor Krutov"
   },
   {
     "name": "Achievement Unlocked 2",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%202/index.png",
     "size": "29MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%202/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%202/DF.json",
+    "type": "Flash",
+    "maker": "John Cooney"
   },
   {
     "name": "Achievement Unlocked 3",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%203/index.png",
     "size": "28MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%203/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%203/DF.json",
+    "type": "Flash",
+    "maker": "John Cooney"
   },
   {
     "name": "Achievement Unlocked",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked/index.png",
     "size": "28MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked/DF.json",
+    "type": "Flash",
+    "maker": "John Cooney"
   },
   {
     "name": "Age of War 2",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War%202/index.png",
     "size": "37MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War%202/DFs.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War%202/DFs.json",
+    "type": "Flash",
+    "type": "Fighting",
+    "type": "Simulation",
+    "maker": "Louiss"
   },
   {
     "name": "Age of War 3",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War%203/index.jpg",
     "size": "37MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War%203/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War%203/DF.json",
+    "type": "Flash",
+    "type": "Simulation",
+    "type": "Fighting",
+    "maker": "Louiss"
   },
   {
     "name": "Age of War",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War/index.png",
     "size": "30MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War/DF.json",
+    "type": "Flash",
+    "type": "Simulation",
+    "type": "Fighting",
+    "maker": "Louiss"
   },
   {
     "name": "Alien Hominid",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Alien%20Hominid/index.png",
     "size": "28MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Alien%20Hominid/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Alien%20Hominid/DF.json",
+    "type": "Flash",
+    "type": "2D",
+    "type": "FPS",
+    "maker": "Tom Fulp"
   },
   {
     "name": "Amigo Pancho 2", 
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%202/index.png",
     "size": "31MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%202/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%202/DF.json",
+    "type": "Flash",
+    "maker": "Qaibo Games"
   },
   {
     "name": "Amigo Pancho 3",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%203/index.png",
     "size": "36MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%203/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%203/DF.json",
+    "type": "Flash",
+    "maker": "Qaibo Games"
   },
   {
     "name": "Amigo Pancho 4",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%204/index.png",
     "size": "35MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%204/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%204/DF.json",
+    "type": "Flash",
+    "maker": "Qaibo Games"
   },
   {
     "name": "Amigo Pancho 5",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%205/index.png",
     "size": "37MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%205/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%205/DF.json",
+    "type": "Flash",
+    "maker": "Qaibo Games"
   },
   {
     "name": "Amanda The Adventurer",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amanda%20The%20Adventurer/index.jpg",
     "size": "1.5GB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amanda%20The%20Adventurer/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amanda%20The%20Adventurer/DF.json",
+    "type": "3D",
+    "type": "Horror",
+    "maker": "MANGLEDmaw Games"
   },
   {
     "name": "Amigo Pancho 6",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%206/index.png",
     "size": "35MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%206/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%206/DF.json",
+    "type": "Flash",
+    "maker": "Qaibo Games"
   },
   {
     "name": "Amigo Pancho",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho/index.png",
     "size": "32MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho/DF.json",
+    "type": "Flash",
+    "maker": "Qaibo Games"
   },
   {
     "name": "Amorphous",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amorphous/iii.png",
     "size": "32MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amorphous/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amorphous/DF.json",
+    "type": "Flash",
+    "type": "Fighting",
+    "maker": "Innocuous Games"
   },
   {
     "name": "Angry Birds Space",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Angry%20Birds%20Space/index.png",
     "size": "37MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Angry%20Birds%20Space/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Angry%20Birds%20Space/DF.json",
+    "type": "Flash",
+    "maker": "Rovio Entertainment"
   },
   {
     "name": "Arthur's Nightmare",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Arthur's%20Nightmare/index.png",
     "size": "100MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Arthur's%20Nightmare/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Arthur's%20Nightmare/DF.json",
+    "type": "Horror",
+    "maker": "Varun R"
   },
   {
     "name": "Awesome Tanks 2",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks%202/index.png",
     "size": "33MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks%202/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks%202/DF.json",
+    "type": "Flash",
+    "type": "Action",
+    "maker": "EmitterCritter"
   },
   {
     "name": "Awesome Tanks",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks/index.png",
     "size": "31MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks/DF.json",
+    "type": "Flash",
+    "type": "Action",
+    "maker": "EmitterCritter"
   },
   {
     "name": "BERGENTRUCK_201X",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BERGENTRUCK_201X/index.png",
     "size": "78MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BERGENTRUCK_201X/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BERGENTRUCK_201X/DF.json",
+    "type": "Simulator",
+    "maker": "Paledoptera"
   },
   {
     "name": "BLOODMONEY",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BLOODMONEY/index.jpg",
     "size": "150MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BLOODMONEY/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BLOODMONEY/DF.json",
+    "type": : "Horror",
+    "type": "Simulation",
+    "maker": " SHROOMYCHRIST"
   },
   {
     "name": "Baldi's Basics Remastered",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/index.jpg",
     "size": "107MB",
-    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/DF.json"
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/DF.json",
+    "type": "Horror",
+    "maker": "Basically Games"
   }
 ]

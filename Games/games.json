@@ -262,5 +262,11 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BERGENTRUCK_201X/index.png",
     "size": "78MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BERGENTRUCK_201X/DF.json"
+  },
+  {
+    "name": "BLOODMONEY",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BLOODMONEY/index.jpg",
+    "size": "150MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BLOODMONEY/DF.json"
   }
 ]

@@ -41,6 +41,8 @@
   },
   {
     "name": "10 Bullets",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10%20Bullets/tall-tb.png",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10%20Bullets/large-tb.png",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10%20Bullets/index.png",
     "size": "26MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10%20Bullets/DF.json",
@@ -49,6 +51,8 @@
   },
   {
     "name": "Smash Remix",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Smash%20Remix/tall-sr.jpeg",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Smash%20Remix/large-sr.jpeg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Smash%20Remix/icon.png",
     "size": "350MB",
     "install": "https://raw.githack.com/Stratus-Games/Stratus-OS-Apps/main/Games/Smash%20Remix/DF.json",
@@ -61,6 +65,8 @@
   },
   {
     "name": "Super Smash Bro",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Super%20Smash%20Bros/tall-smb.png",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Super%20Smash%20Bros/large-smb.jpeg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Super%20Smash%20Bros/ico.png",
     "size": "275MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Super%20Smash%20Bros/DF.json",
@@ -72,6 +78,8 @@
   },
   {
     "name": "The Legend of Zelda: Majora's Mask",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Majora's%20Mask/tall-mm.jpg",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Majora's%20Mask/large-mm.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Majora's%20Mask/icon.png",
     "size": "280MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Majora's%20Mask/DF.json",
@@ -83,6 +91,8 @@
   },
   {
     "name": "The Legend of Zelda: Ocarina of Time",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Ocarina%20of%20Time/tall-oot.jpg",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Ocarina%20of%20Time/large-oot.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Ocarina%20of%20Time/icon.png",
     "size": "280MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Ocarina%20of%20Time/DF.json",
@@ -93,6 +103,8 @@
   },
   {
     "name": "The Legend of Zelda: Links Awakening",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Links%20Awakening/tall-la.jpg",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Links%20Awakening/large-la.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Links%20Awakening/icon.png",
     "size": "270MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Links%20Awakening/DF.json",
@@ -104,6 +116,8 @@
   },
   {
     "name": "The Legend of Zelda: Oracle of Ages",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Oracle%20of%20Ages/tall-ooa.jpg",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Oracle%20of%20Ages/large-ooa.png",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Oracle%20of%20Ages/icon.png",
     "size": "270MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20Oracle%20of%20Ages/DF.json",

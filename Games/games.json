@@ -1,6 +1,7 @@
 [
   {
     "name": "Learn To Fly",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly/large-ltf.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly/index.png",
     "size": "28MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly/DF.json",

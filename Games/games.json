@@ -129,6 +129,8 @@
   },
   {
     "name": "The Legend of Zelda: Oracle of Seasons",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20%20Oracle%20of%20%20Seasons/large-oos.webp",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20%20Oracle%20of%20%20Seasons/large-oos.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20%20Oracle%20of%20%20Seasons/icon.png",
     "size": "270MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Zelda%3A%20%20Oracle%20of%20%20Seasons/DF.json",
@@ -140,6 +142,8 @@
   },
   {
     "name": "Geometry Dash",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Geometry%20Dash/tall-gd.png",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Geometry%20Dash/large-gd.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Geometry%20Dash/icon.jpg",
     "size": "90MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Geometry%20Dash/DF.json",
@@ -149,6 +153,8 @@
   },
   {
     "name": "1v1 Tennis",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1v1%20Tennis/tall-1v1t.png",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1v1%20Tennis/large-1v1t.png",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1v1%20Tennis/icon.png",
     "size": "26MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1v1%20Tennis/DF.json",
@@ -158,6 +164,8 @@
   },
   {
     "name": "A Koopas Revenge 2",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge%202/tall-kr2.png",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge%202/large-kr2.png",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge%202/icon.png",
     "size": "26MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge%202/DF.json",
@@ -168,6 +176,8 @@
   },
   {
     "name": "A Koopas Revenge",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge/tall-kr.png",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge/large-kr.png",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge/icon.png",
     "size": "26MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/A%20Koompas%20Revenge/DF.json",
@@ -178,6 +188,8 @@
   },
   {
     "name": "Hollow Knight",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Hollow%20Knight/tall-hk.jpeg",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Hollow%20Knight/large-hk.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Hollow%20Knight/index.png",
     "size": "1GB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Hollow%20Knight/DF.json",
@@ -188,6 +200,8 @@
   },
   {
     "name": "Domestic Fears",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Domestic%20Fears/tall-df.jpg",
+    "larger-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Domestic%20Fears/large-df.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Domestic%20Fears/icon.jpg",
     "size": "53MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Domestic%20Fears/DF.json",

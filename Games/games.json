@@ -8,6 +8,7 @@
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly/DF.json",
     "type": "Flash",
     "maker": "Marie Prevost",
+    "description": "Launch a determined penguin off icy ramps and upgrade your gear to achieve longer and higher flights in this classic physics-based progression game."
   },
   {
     "name": "Learn To Fly 2",
@@ -17,7 +18,8 @@
     "size": "31MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%202/DF.json",
     "type": "Flash",
-    "maker": "Marie Prevost"
+    "maker": "Marie Prevost",
+    "description": "Improve your penguin’s flight with better upgrades, challenges, and strategies as you aim to break limits and travel farther than ever."
   },
   {
     "name": "Learn To Fly 3",
@@ -27,7 +29,8 @@
     "size": "46MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly%203/DF.json",
     "type": "Flash",
-    "maker": "Marie Prevost"
+    "maker": "Marie Prevost",
+    "description": "Take the penguin to space with advanced tech, multiple modes, and deeper progression systems focused on vertical launches and experimentation."
   },
   {
     "name": "1 on 1 Soccer",
@@ -37,7 +40,8 @@
     "size": "26MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1%20on%201%20Soccer/DF.json",
     "type": "Flash",
-    "maker": "FlashFooty"
+    "maker": "FlashFooty",
+    "description": "A fast-paced arcade soccer game where you face off in quick one-on-one matches using simple controls and chaotic physics."
   },
   {
     "name": "10 Bullets",
@@ -47,7 +51,8 @@
     "size": "26MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10%20Bullets/DF.json",
     "type": "Flash",
-    "maker": "Michel Gerard"
+    "maker": "Michel Gerard",
+    "description": "A timing-based shooter where each shot triggers chain reactions—maximize destruction using only ten bullets."
   },
   {
     "name": "Smash Remix",
@@ -61,7 +66,8 @@
     "type": "Retro",
     "type": "Fighting",
     "type": "MOD",
-    "maker": "MarioReincarnate"
+    "maker": "MarioReincarnate",
+    "description": "A heavily expanded version of the N64 classic featuring new characters, stages, and gameplay tweaks built on the original engine."
   },
   {
     "name": "Super Smash Bro",
@@ -74,7 +80,8 @@
     "type": "N64",
     "type": "Retro",
     "type": "Fighting",
-    "maker": "Nintendo"
+    "maker": "Nintendo",
+    "description": "The original crossover fighting game where iconic characters battle in fast-paced, platform-based arenas."
   },
   {
     "name": "The Legend of Zelda: Majora's Mask",
@@ -87,7 +94,8 @@
     "type": "N64",
     "type": "Retro",
     "type": "Action",
-    "maker": "Nintendo"
+    "maker": "Nintendo",
+    "description": "A dark, time-based adventure where you must relive a three-day cycle to prevent the moon from destroying the world."
   },
   {
     "name": "The Legend of Zelda: Ocarina of Time",
@@ -99,7 +107,8 @@
     "type": "Emulator",
     "type": "N64",
     "type": "Action",
-    "maker": "Nintendo"
+    "maker": "Nintendo",
+    "description": "An epic action-adventure journey through time featuring puzzles, dungeons, and one of gaming’s most iconic stories."
   },
   {
     "name": "The Legend of Zelda: Links Awakening",
@@ -112,7 +121,8 @@
     "type": "Game Boy",
     "type": "Action",
     "type": "2D",
-    "maker": "Nintendo"
+    "maker": "Nintendo",
+    "description": "A charming 2D adventure set on a mysterious island filled with puzzles, secrets, and memorable characters."
   },
   {
     "name": "The Legend of Zelda: Oracle of Ages",
@@ -125,7 +135,8 @@
     "type": "Game Boy",
     "type": "2D",
     "type": "Action",
-    "maker": "Nintendo"
+    "maker": "Nintendo",
+    "description": "A puzzle-focused adventure where you manipulate time to solve challenges and uncover secrets."
   },
   {
     "name": "The Legend of Zelda: Oracle of Seasons",
@@ -138,7 +149,8 @@
     "type": "Game Boy",
     "type": "2D",
     "type": "Action",
-    "maker": "Nintendo"
+    "maker": "Nintendo",
+    "description": "An action-driven adventure where changing seasons alters the world and opens new paths."
   },
   {
     "name": "Geometry Dash",
@@ -149,7 +161,8 @@
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Geometry%20Dash/DF.json",
     "type": "2D",
     "type": "Action",
-    "maker": "Robert Topala"
+    "maker": "Robert Topala",
+    "description": "A rhythm-based platformer where precise timing and fast reflexes are key to surviving challenging obstacle courses."
   },
   {
     "name": "1v1 Tennis",
@@ -160,7 +173,8 @@
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/1v1%20Tennis/DF.json",
     "type": "Flash",
     "type": "Action",
-    "maker": "Neutronized"
+    "maker": "Neutronized",
+    "description": "A simple but competitive tennis game focused on quick reactions and one-on-one matches."
   },
   {
     "name": "A Koopas Revenge 2",
@@ -172,7 +186,8 @@
     "type": "Flash",
     "type": "Action",
     "type": "2D",
-    "maker": "Lambtaco"
+    "maker": "Lambtaco",
+    "description": "Play as enemies from the Mario universe in this action-packed platformer with unique mechanics and boss fights."
   },
   {
     "name": "A Koopas Revenge",
@@ -184,7 +199,8 @@
     "type": "Flash",
     "type": "Action",
     "type": "2D",
-    "maker": "Lambtaco"
+    "maker": "Lambtaco",
+    "description": "A fan-made platformer where you take control of classic enemies and fight through creative levels."
   },
   {
     "name": "Hollow Knight",
@@ -196,7 +212,8 @@
     "type": "Metrovania",
     "type": "Action",
     "type": "2D",
-    "maker": "Team Cherry"
+    "maker": "Team Cherry",
+    "description": "A beautifully crafted metroidvania with deep exploration, challenging combat, and a haunting underground world."
   },
   {
     "name": "Domestic Fears",
@@ -207,7 +224,8 @@
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Domestic%20Fears/DF.json",
     "type": "Horror",
     "type": "3D",
-    "maker": "RosenshineGames"
+    "maker": "RosenshineGames",
+    "description": "A psychological horror experience set in a tense environment filled with unsettling moments and narrative-driven scares."
   },
   {
     "name": "Easter Night",
@@ -218,7 +236,8 @@
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/DF.json",
     "type": "Horror",
     "type": "3D",
-    "maker": "RosenshineGames"
+    "maker": "RosenshineGames",
+    "description": "A horror game that mixes exploration and suspense in a dark, eerie setting with hidden threats."
   },
   {
     "name": "Tanks 3D",
@@ -228,7 +247,8 @@
     "size": "27MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/3D%20Tanks/DF.json",
     "type": "Flash",
-    "maker": "yp3d"
+    "maker": "yp3d",
+    "description": "Control a tank in a 3D battlefield, navigating terrain and eliminating enemies in simple but engaging combat."
   },
   {
     "name": "5B",
@@ -238,7 +258,8 @@
     "size": "27MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B/DF.json",
     "type": "Flash",
-    "maker": "Cary Huang"
+    "maker": "Cary Huang",
+    "description": "A minimalist skill game where you navigate tight spaces using precise movement and timing."
   },
   {
     "name": "5B: 5*30",
@@ -248,7 +269,8 @@
     "size": "28MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B%3A%205*30/DF.json",
     "type": "Flash",
-    "maker": "Cary Huang"
+    "maker": "Cary Huang",
+    "description": "An expanded version of 5B with more levels and increasingly difficult precision challenges."
   },
   {
     "name": "8 Ball Pool",
@@ -258,7 +280,8 @@
     "size": "26MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/8%20Ball%20Pool/DF.json",
     "type": "Flash",
-    "maker": "Miniclip"
+    "maker": "Miniclip",
+    "description": "A classic pool simulation where you compete in matches using realistic physics and aiming mechanics."
   },
   {
     "name": "Abandoned",
@@ -268,7 +291,8 @@
     "size": "34MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Abandoned/DF.json",
     "type": "Flash",
-    "maker": "Igor Krutov"
+    "maker": "Igor Krutov",
+    "description": "A survival-style experience where you must navigate isolation and uncover what happened in a deserted environment."
   },
   {
     "name": "Achievement Unlocked 2",
@@ -278,7 +302,8 @@
     "size": "29MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%202/DF.json",
     "type": "Flash",
-    "maker": "John Cooney"
+    "maker": "John Cooney",
+    "description": "Expands on the original with more achievements, puzzles, and creative ways to complete objectives."
   },
   {
     "name": "Achievement Unlocked 3",
@@ -288,7 +313,8 @@
     "size": "28MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%203/DF.json",
     "type": "Flash",
-    "maker": "John Cooney"
+    "maker": "John Cooney",
+    "description": "A larger, more complex entry with even more unconventional achievements and exploration."
   },
   {
     "name": "Achievement Unlocked",
@@ -298,7 +324,8 @@
     "size": "28MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked/DF.json",
     "type": "Flash",
-    "maker": "John Cooney"
+    "maker": "John Cooney",
+    "description": "A humorous platformer where the goal is to unlock as many ridiculous achievements as possible."
   },
   {
     "name": "Age of War 2",
@@ -310,7 +337,8 @@
     "type": "Flash",
     "type": "Fighting",
     "type": "Simulation",
-    "maker": "Louiss"
+    "maker": "Louiss",
+    "description": "Adds more units, strategies, and upgrades to the original formula of evolving warfare."
   },
   {
     "name": "Age of War 3",
@@ -322,7 +350,8 @@
     "type": "Flash",
     "type": "Simulation",
     "type": "Fighting",
-    "maker": "Louiss"
+    "maker": "Louiss",
+    "description": "Further expands gameplay with new mechanics, deeper strategy, and enhanced progression."
   },
   {
     "name": "Age of War",
@@ -334,7 +363,8 @@
     "type": "Flash",
     "type": "Simulation",
     "type": "Fighting",
-    "maker": "Louiss"
+    "maker": "Louiss",
+    "description": "Progress through different historical eras, upgrading units and defenses to defeat your opponent."
   },
   {
     "name": "Alien Hominid",
@@ -346,7 +376,8 @@
     "type": "Flash",
     "type": "2D",
     "type": "FPS",
-    "maker": "Tom Fulp"
+    "maker": "Tom Fulp",
+    "description": "A chaotic run-and-gun shooter with fast action, unique weapons, and intense difficulty."
   },
   {
     "name": "Amigo Pancho 2", 
@@ -356,7 +387,8 @@
     "size": "31MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%202/DF.json",
     "type": "Flash",
-    "maker": "Qaibo Games"
+    "maker": "Qaibo Games",
+    "description": "Introduces new puzzles and mechanics that require more precise planning and timing"
   },
   {
     "name": "Amigo Pancho 3",
@@ -366,7 +398,8 @@
     "size": "36MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%203/DF.json",
     "type": "Flash",
-    "maker": "Qaibo Games"
+    "maker": "Qaibo Games",
+    "description": "Adds more complex levels and obstacles to the balloon-based puzzle formula."
   },
   {
     "name": "Amigo Pancho 4",
@@ -376,7 +409,8 @@
     "size": "35MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%204/DF.json",
     "type": "Flash",
-    "maker": "Qaibo Games"
+    "maker": "Qaibo Games",
+    "description": "Expands gameplay with creative mechanics and increasingly challenging scenarios."
   },
   {
     "name": "Amigo Pancho 5",
@@ -386,7 +420,8 @@
     "size": "37MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%205/DF.json",
     "type": "Flash",
-    "maker": "Qaibo Games"
+    "maker": "Qaibo Games",
+    "description": "Offers even tougher puzzles and refined physics-based gameplay."
   },
   {
     "name": "Amanda The Adventurer",
@@ -397,7 +432,8 @@
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amanda%20The%20Adventurer/DF.json",
     "type": "3D",
     "type": "Horror",
-    "maker": "MANGLEDmaw Games"
+    "maker": "MANGLEDmaw Games",
+    "description": "A disturbing horror experience disguised as a children’s show, blending puzzles with unsettling storytelling."
   },
   {
     "name": "Amigo Pancho 6",
@@ -407,7 +443,8 @@
     "size": "35MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%206/DF.json",
     "type": "Flash",
-    "maker": "Qaibo Games"
+    "maker": "Qaibo Games",
+    "description": "The most advanced entry with difficult levels and varied environmental challenges."
   },
   {
     "name": "Amigo Pancho",
@@ -417,7 +454,8 @@
     "size": "32MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho/DF.json",
     "type": "Flash",
-    "maker": "Qaibo Games"
+    "maker": "Qaibo Games",
+    "description": "A physics puzzle game where you guide Pancho safely upward using balloons while avoiding hazards."
   },
   {
     "name": "Amorphous",
@@ -428,7 +466,8 @@
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amorphous/DF.json",
     "type": "Flash",
     "type": "Fighting",
-    "maker": "Innocuous Games"
+    "maker": "Innocuous Games",
+    "description": "A fast-paced arena game where you fight endless waves of enemies and survive as long as possible"
   },
   {
     "name": "Angry Birds Space",
@@ -438,7 +477,8 @@
     "size": "37MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Angry%20Birds%20Space/DF.json",
     "type": "Flash",
-    "maker": "Rovio Entertainment"
+    "maker": "Rovio Entertainment",
+    "description": "A physics-based puzzle game where gravity mechanics change how you launch birds to destroy structures."
   },
   {
     "name": "Arthur's Nightmare",
@@ -448,7 +488,8 @@
     "size": "100MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Arthur's%20Nightmare/DF.json",
     "type": "Horror",
-    "maker": "Varun R"
+    "maker": "Varun R",
+    "description": "A horror game centered around survival and exploration in a dark, threatening environment."
   },
   {
     "name": "Awesome Tanks 2",
@@ -459,7 +500,8 @@
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks%202/DF.json",
     "type": "Flash",
     "type": "Action",
-    "maker": "EmitterCritter"
+    "maker": "EmitterCritter",
+    "description": "Builds on the original with more weapons, levels, and improved gameplay mechanics."
   },
   {
     "name": "Awesome Tanks",
@@ -470,7 +512,8 @@
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks/DF.json",
     "type": "Flash",
     "type": "Action",
-    "maker": "EmitterCritter"
+    "maker": "EmitterCritter",
+    "description": "Battle through levels in a tank, upgrading weapons and destroying enemies in top-down combat."
   },
   {
     "name": "BERGENTRUCK_201X",
@@ -480,7 +523,8 @@
     "size": "78MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BERGENTRUCK_201X/DF.json",
     "type": "Simulator",
-    "maker": "Paledoptera"
+    "maker": "Paledoptera",
+    "description": "A unique simulation experience inspired by intense boss battles, blending music and gameplay elements."
   },
   {
     "name": "BLOODMONEY",
@@ -491,7 +535,8 @@
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BLOODMONEY/DF.json",
     "type": : "Horror",
     "type": "Simulation",
-    "maker": " SHROOMYCHRIST"
+    "maker": " SHROOMYCHRIST",
+    "description": "A dark simulation experience with horror elements, focusing on tension, atmosphere, and survival decisions."
   },
   {
     "name": "Baldi's Basics Remastered",
@@ -501,6 +546,7 @@
     "size": "107MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/DF.json",
     "type": "Horror",
-    "maker": "Basically Games"
+    "maker": "Basically Games",
+    "description": "A horror-parody game where you solve math problems while avoiding a relentless teacher in a surreal school."
   }
 ]

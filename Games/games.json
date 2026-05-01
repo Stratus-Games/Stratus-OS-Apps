@@ -282,6 +282,8 @@
   },
   {
     "name": "Achievement Unlocked 3",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%203/tall-au3.webp",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%203/large-au3.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%203/index.png",
     "size": "28MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%203/DF.json",
@@ -290,6 +292,8 @@
   },
   {
     "name": "Achievement Unlocked",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked/tall-au.png",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked/large-au.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked/index.png",
     "size": "28MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked/DF.json",

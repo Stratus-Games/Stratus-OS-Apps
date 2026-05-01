@@ -201,7 +201,7 @@
   {
     "name": "Domestic Fears",
     "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Domestic%20Fears/tall-df.jpg",
-    "larger-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Domestic%20Fears/large-df.jpg",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Domestic%20Fears/large-df.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Domestic%20Fears/icon.jpg",
     "size": "53MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Domestic%20Fears/DF.json",
@@ -211,6 +211,8 @@
   },
   {
     "name": "Easter Night",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/tall-en.jpg",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/large-en.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/icon.png",
     "size": "50.5MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Easter%20Night/DF.json",
@@ -220,6 +222,8 @@
   },
   {
     "name": "Tanks 3D",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/3D%20Tanks/tall-3t.png",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/3D%20Tanks/large-3t.avif",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/3D%20Tanks/index.png",
     "size": "27MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/3D%20Tanks/DF.json",
@@ -228,6 +232,8 @@
   },
   {
     "name": "5B",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B/tall-5.jpg",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B/large-5.webp",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B/index.png",
     "size": "27MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B/DF.json",
@@ -236,6 +242,8 @@
   },
   {
     "name": "5B: 5*30",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B%3A%205*30/tall-53.jpg",
+    "large": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B%3A%205*30/large-53.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B%3A%205*30/index.png",
     "size": "28MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B%3A%205*30/DF.json",
@@ -244,6 +252,8 @@
   },
   {
     "name": "8 Ball Pool",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/8%20Ball%20Pool/tall-8bp.jpg",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/8%20Ball%20Pool/large-8bp.png",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/8%20Ball%20Pool/index.png",
     "size": "26MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/8%20Ball%20Pool/DF.json",
@@ -252,6 +262,8 @@
   },
   {
     "name": "Abandoned",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Abandoned/tall-a.jpg",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Abandoned/large-a.webp",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Abandoned/index.png",
     "size": "34MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Abandoned/DF.json",
@@ -260,6 +272,8 @@
   },
   {
     "name": "Achievement Unlocked 2",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%202/tall-au2.jpg",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%202/large-au2.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%202/index.png",
     "size": "29MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Achievement%20Unlocked%202/DF.json",

@@ -302,6 +302,8 @@
   },
   {
     "name": "Age of War 2",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War%202/tall2-aow2.png",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War%202/large2-aow2.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War%202/index.png",
     "size": "37MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War%202/DFs.json",

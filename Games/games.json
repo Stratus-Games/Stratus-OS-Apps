@@ -463,6 +463,8 @@
   },
   {
     "name": "Awesome Tanks",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks/tall-at.png",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks/large-at.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks/index.png",
     "size": "31MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Awesome%20Tanks/DF.json",
@@ -472,6 +474,8 @@
   },
   {
     "name": "BERGENTRUCK_201X",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BERGENTRUCK_201X/tall-b.jpg",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BERGENTRUCK_201X/large-b.webp",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BERGENTRUCK_201X/index.png",
     "size": "78MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BERGENTRUCK_201X/DF.json",
@@ -480,6 +484,8 @@
   },
   {
     "name": "BLOODMONEY",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BLOODMONEY/tall-bm.png",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BLOODMONEY/large-bm.png",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BLOODMONEY/index.jpg",
     "size": "150MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/BLOODMONEY/DF.json",
@@ -489,6 +495,8 @@
   },
   {
     "name": "Baldi's Basics Remastered",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/tall-bbr.jpg",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/large-bbr.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/index.jpg",
     "size": "107MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Remastered/DF.json",

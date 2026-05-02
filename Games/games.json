@@ -553,7 +553,7 @@
   },
   {
     "id": "47",
-    "namE": "Plague Inc Evolved",
+    "name": "Plague Inc Evolved",
     "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Plague%20Inc%20Evolved/tall-pi.png",
     "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Plague%20Inc%20Evolved/large-pi.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Plague%20Inc%20Evolved/favicon.ico",
@@ -562,5 +562,17 @@
     "type": ["Simulation"],
     "maker": "Ndemic Creations",
     "description": "Create and evolve a deadly pathogen with the goal of infecting and wiping out humanity, strategically adapting to global responses, environmental conditions, and medical countermeasures in a realistic simulation of disease spread."
-  }
+  },
+   {
+      "id": "48",
+      "name": "Baldi's Basics Plus",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Plus/tall-bbp.jpg",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Plus/large-bbp.jpg",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Plus/index.jpg",
+      "size": "210MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Baldi's%20Basics%20Plus/DF.json",
+      "type": ["Horror"],
+      "maker": "Basically Games",
+      "description": "A chaotic, procedurally generated horror-comedy where you explore ever-changing school layouts, collect notebooks, and survive unpredictable encounters with Baldi and other bizarre characters."
+   }
 ]

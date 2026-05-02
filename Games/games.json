@@ -255,7 +255,7 @@
     "id": "22",
     "name": "5B: 5*30",
     "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B%3A%205*30/tall-53.jpg",
-    "large": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B%3A%205*30/large-53.jpg",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B%3A%205*30/large-53.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B%3A%205*30/index.png",
     "size": "28MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/5B%3A%205*30/DF.json",
@@ -344,6 +344,7 @@
     "size": "37MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Age%20of%20War%203/DF.json",
     "type": ["Flash","Simulation","Fighting","Louiss"],
+    "maker": "Louiss",
     "description": "Further expands gameplay with new mechanics, deeper strategy, and enhanced progression."
   },
   {
@@ -378,7 +379,7 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%202/index.png",
     "size": "31MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amigo%20Pancho%202/DF.json",
-    "type": "[Flash]",
+    "type": ["Flash"],
     "maker": "Qaibo Games",
     "description": "Introduces new puzzles and mechanics that require more precise planning and timing"
   },

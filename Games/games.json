@@ -463,8 +463,7 @@
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amorphous/iii.png",
     "size": "32MB",
     "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Amorphous/DF.json",
-    "type": ["Flash"],
-    "type": "Fighting",
+    "type": ["Flash","Fighting"],
     "maker": "Innocuous Games",
     "description": "A fast-paced arena game where you fight endless waves of enemies and survive as long as possible"
   },

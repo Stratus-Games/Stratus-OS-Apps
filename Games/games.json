@@ -558,6 +558,7 @@
     "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Plague%20Inc%20Evolved/large-pi.jpg",
     "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Plague%20Inc%20Evolved/favicon.ico",
     "size": "350MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Plague%20Inc%20Evolved/DF.json",
     "type": ["Simulation"],
     "maker": "Ndemic Creations",
     "description": "Create and evolve a deadly pathogen with the goal of infecting and wiping out humanity, strategically adapting to global responses, environmental conditions, and medical countermeasures in a realistic simulation of disease spread."

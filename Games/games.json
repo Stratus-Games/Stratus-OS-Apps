@@ -1,4 +1,16 @@
 [
+   {
+    "id": "1",
+    "name": "Learn To Fly",
+    "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly/tall-ltf.jpg",
+    "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly/large-ltf.jpg",
+    "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly/index.png",
+    "size": "28MB",
+    "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Learn%20to%20Fly/DF.json",
+    "type": ["Flash"],
+    "maker": "Marie Prevost",
+    "description": "Launch a determined penguin off icy ramps and upgrade your gear to achieve longer and higher flights in this classic physics-based progression game."
+  },
   {
     "id": "2",
     "name": "Learn To Fly 2",

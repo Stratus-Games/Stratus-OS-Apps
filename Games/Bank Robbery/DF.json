@@ -1,0 +1,22 @@
+{
+  "name": "Bank Robbery",
+  "assets": [
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bank%20Robbery/cg-sdk.js",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bank%20Robbery/index.html",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bank%20Robbery/Build/BankRobbery.data.part1",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bank%20Robbery/Build/BankRobbery.data.part2",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bank%20Robbery/Build/BankRobbery.framework.js",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bank%20Robbery/Build/BankRobbery.loader.js",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bank%20Robbery/Build/BankRobbery.wasm.part1",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bank%20Robbery/Build/BankRobbery.wasm.part2"
+  ],
+  "start": "index.html"
+}

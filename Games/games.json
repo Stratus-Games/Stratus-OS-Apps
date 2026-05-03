@@ -574,5 +574,17 @@
       "type": ["Horror"],
       "maker": "Basically Games",
       "description": "A chaotic, procedurally generated horror-comedy where you explore ever-changing school layouts, collect notebooks, and survive unpredictable encounters with Baldi and other bizarre characters."
+   },
+   {
+      "id": "49",
+      "name": "Bank Robbery",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bank%20Robbery/tall-br.jpg",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bank%20Robbery/large-br.avif",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bank%20Robbery/index.png",
+      "size": "62MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bank%20Robbery/DF.json",
+      "type": ["Simulation"],
+      "maker": "justaliendev",
+      "description": "focusing on strategy, action, and high-stakes tension."
    }
 ]

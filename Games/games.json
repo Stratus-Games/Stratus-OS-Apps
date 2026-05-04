@@ -598,5 +598,17 @@
       "type": ["Simulation"],
       "maker": "Milton Bradley",
       "description": "Find an enemy ship and sink it."
+   },
+   {
+      "id": "51",
+      "name": "Big Red Button",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Big%20Red%20Button/tall-brb.png",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Big%20Red%20Button/large-brb.jpg",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Big%20Red%20Button/index.png",
+      "size": "26MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Big%20Red%20Button/DF.json",
+      "type": ["Simulation"],
+      "maker": "newgrounds",
+      "description": "There's just one rule: Do not press."
    }
 ]

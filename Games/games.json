@@ -586,5 +586,17 @@
       "type": ["Simulation"],
       "maker": "justaliendev",
       "description": "focusing on strategy, action, and high-stakes tension."
+   },
+   {
+      "id": "50",
+      "name": "Battleship",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Battleship/tall-b.png",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Battleship/large-b.png",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Battleship/index.png",
+      "size": "26MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Battleship/DF.json",
+      "type": ["Simulation"],
+      "maker": "Milton Bradley",
+      "description": "Find an enemy ship and sink it."
    }
 ]

@@ -610,5 +610,17 @@
       "type": ["Simulation"],
       "maker": "newgrounds",
       "description": "There's just one rule: Do not press."
+   },
+   {
+      "id": "52",
+      "name": "Bike Champs 2",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bike%20Champ%202/tall-bc2.jpg",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bike%20Champ%202/large-bc2.jpg",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bike%20Champ%202/index.png",
+      "size": "29MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bike%20Champ%202/DF.json",
+      "type": ["Simulation"],
+      "maker": "2DPLAY",
+      "description": "A challenging physics-based bike game where you navigate tricky obstacle courses, balance carefully, and master precise controls to reach the finish without crashing."
    }
 ]

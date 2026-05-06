@@ -634,5 +634,17 @@
       "type": ["Simulation"],
       "maker": "Mike",
       "description": "Shoot A Demon and Yourself"
+   },
+   {
+      "id": "54",
+      "name": "20 Minutes Till Dawn",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/20%20Minutes%20Till%20Dawn/tall-20mtd.jpg",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/20%20Minutes%20Till%20Dawn/large-20mtd.jpg",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/20%20Minutes%20Till%20Dawn/index.jpg",
+      "size": "60MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/20%20Minutes%20Till%20Dawn/DF.json",
+      "type": ["2D","Shooter"],
+      "maker": "flanne",
+      "description": "a fast-paced, top-down roguelite survival game where you fight off endless waves of Lovecraftian monsters for a 20-minute session"
    }
 ]

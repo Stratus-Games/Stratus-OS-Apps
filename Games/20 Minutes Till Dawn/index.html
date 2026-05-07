@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
-     <meta charset="utf-8">
+    <base href="https://cdn.jsdelivr.net/gh/web-ports/20-minutes@main/">
+    <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Unity Web Player | 20 Minutes Till Dawn</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
@@ -68,7 +69,7 @@ var loadingText = document.querySelector("#loading-text");
         loadedBytes += value.length;
         chunks.push(value);
         let mbDone = (loadedBytes / (1024 * 1024)).toFixed(2);
-        let mbTotal = '87.82';
+        let mbTotal = '48.02';
         loadingText.textContent = `LOADING... ${mbDone} MB / ${mbTotal} MB`;
       }
       let fullBuffer = new Uint8Array(received);

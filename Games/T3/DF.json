@@ -36,7 +36,7 @@
     "path": "./Build/",
     "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/T3/Build/tungtungbog.wasm.code.unityweb.part2",
     "path": "./Build/",
-    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/T3/Build/tungtungbog.wasm.code.unityweb.part3"
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/T3/Build/tungtungbog.wasm.framework.unityweb"
   ],
   "start": "index.html"
 }

@@ -646,5 +646,17 @@
       "type": ["2D","Shooter"],
       "maker": "flanne",
       "description": "a fast-paced, top-down roguelite survival game where you fight off endless waves of Lovecraftian monsters for a 20-minute session"
+   },
+   {
+      "id": "55",
+      "name": "T3",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/T3/tall-t3.jpg",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/T3/large-t3.jpg",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/T3/index.jpg",
+      "size": "60MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/T3/DF.json",
+      "type": ["Mod","Horror"],
+      "maker": "UNKNOWN",
+      "description": "Get chased by Tung Tung Sahur"
    }
 ]

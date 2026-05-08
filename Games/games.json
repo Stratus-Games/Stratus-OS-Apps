@@ -658,5 +658,17 @@
       "type": ["Mod","Horror"],
       "maker": "UNKNOWN",
       "description": "Get chased by Tung Tung Sahur"
+   },
+   {
+      "id": "56",
+      "name": "Spaceflight Simulator",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Spaceflight%20Simulator/tall-sfs.jpg",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Spaceflight%20Simulator/large-sfs.jpg",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Spaceflight%20Simulator/index.jpg",
+      "size": "90MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Spaceflight%20Simulator/DF.json",
+      "type": ["Simulator","2D"],
+      "maker": "Stef Morojna",
+      "description": "Build a rocket and explore the solar system."
    }
 ]

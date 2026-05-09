@@ -694,6 +694,17 @@
       "type": ["Puzzle"],
       "maker": "Edmund McMillen and Florian Himsl",
       "description": "The game is easy to pick up—moving with WASD and shooting with arrow keys like a twin-stick shooter. However, the real depth comes from learning enemy patterns and hidden room locations. As you master the game, you unlock new characters like Samson the Berserker, new endings, and specialized Challenge Modes that provide even more content to master."
+   },
+   {
+      "id": "59",
+      "name": "The Legend of Luke",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Luke/tall-lol.png",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Luke/large-lol.png",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Luke/large-lol.png",
+      "size": "60MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Luke/DF.json",
+      "type": ["Troll"],
+      "maker": "Jacob",
+      "description": "A Troll Game"
    }
-
 ]

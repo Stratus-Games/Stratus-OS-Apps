@@ -71,43 +71,82 @@
   </div>
 
   <script>
-    var canvas = document.querySelector("#unity-canvas");
+  var canvas = document.querySelector("#unity-canvas");
 
-    function unityShowBanner(msg, type) {
-      var warningBanner = document.querySelector("#unity-warning");
+  async function mergeWasmParts(parts) {
+    // Fetch all parts
+    const responses = await Promise.all(
+      parts.map(url => fetch(url).then(r => r.arrayBuffer()))
+    );
 
-      function updateBannerVisibility() {
-        warningBanner.style.display =
-          warningBanner.children.length ? 'block' : 'none';
-      }
+    // Calculate total size
+    let totalLength = responses.reduce((sum, part) => sum + part.byteLength, 0);
 
-      var div = document.createElement('div');
-      div.innerHTML = msg;
-      warningBanner.appendChild(div);
+    // Merge into one Uint8Array
+    let merged = new Uint8Array(totalLength);
 
-      if (type == 'error')
-        div.style = 'background: red; padding: 10px;';
-      else {
-        if (type == 'warning')
-          div.style = 'background: yellow; padding: 10px;';
-
-        setTimeout(function () {
-          warningBanner.removeChild(div);
-          updateBannerVisibility();
-        }, 5000);
-      }
-
-      updateBannerVisibility();
+    let offset = 0;
+    for (const part of responses) {
+      merged.set(new Uint8Array(part), offset);
+      offset += part.byteLength;
     }
 
-    var buildUrl = "Build";
-    var loaderUrl = buildUrl + "/new.loader.js";
+    return merged;
+  }
 
-    var config = {
+  function unityShowBanner(msg, type) {
+    var warningBanner = document.querySelector("#unity-warning");
+
+    function updateBannerVisibility() {
+      warningBanner.style.display =
+        warningBanner.children.length ? 'block' : 'none';
+    }
+
+    var div = document.createElement('div');
+    div.innerHTML = msg;
+    warningBanner.appendChild(div);
+
+    if (type == 'error')
+      div.style = 'background:red;padding:10px;';
+    else {
+      if (type == 'warning')
+        div.style = 'background:yellow;padding:10px;';
+
+      setTimeout(() => {
+        warningBanner.removeChild(div);
+        updateBannerVisibility();
+      }, 5000);
+    }
+
+    updateBannerVisibility();
+  }
+
+  async function startUnity() {
+
+    const buildUrl = "Build";
+
+    // Merge wasm parts
+    const wasmBytes = await mergeWasmParts([
+      buildUrl + "/new.wasm.part1",
+      buildUrl + "/new.wasm.part2",
+      buildUrl + "/new.wasm.part3"
+    ]);
+
+    // Create blob URL for Unity
+    const wasmBlob = new Blob([wasmBytes], {
+      type: "application/wasm"
+    });
+
+    const wasmBlobUrl = URL.createObjectURL(wasmBlob);
+
+    const config = {
       arguments: [],
       dataUrl: buildUrl + "/new.data",
       frameworkUrl: buildUrl + "/new.framework.js",
-      codeUrl: buildUrl + "/new.wasm",
+
+      // Use merged wasm blob
+      codeUrl: wasmBlobUrl,
+
       streamingAssetsUrl: "StreamingAssets",
       companyName: "DefaultCompany",
       productName: "My project (2)",
@@ -115,25 +154,13 @@
       showBanner: unityShowBanner
     };
 
-    // Match WebGL resolution to canvas size
-    config.matchWebGLToCanvasSize = true;
-
-    // Mobile viewport
-    if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
-      var meta = document.createElement('meta');
-      meta.name = 'viewport';
-      meta.content =
-        'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no';
-
-      document.getElementsByTagName('head')[0].appendChild(meta);
-    }
-
     document.querySelector("#unity-loading-bar").style.display = "block";
 
-    var script = document.createElement("script");
-    script.src = loaderUrl;
+    const loaderScript = document.createElement("script");
+    loaderScript.src = buildUrl + "/new.loader.js";
 
-    script.onload = () => {
+    loaderScript.onload = () => {
+
       createUnityInstance(canvas, config, (progress) => {
         document.querySelector("#unity-progress-bar-full").style.width =
           (100 * progress) + "%";
@@ -146,12 +173,16 @@
           unityInstance.SetFullscreen(1);
         };
 
-      }).catch((message) => {
-        alert(message);
+      }).catch((err) => {
+        console.error(err);
+        alert(err);
       });
     };
 
-    document.body.appendChild(script);
-  </script>
+    document.body.appendChild(loaderScript);
+  }
+
+  startUnity();
+</script>
 </body>
 </html>

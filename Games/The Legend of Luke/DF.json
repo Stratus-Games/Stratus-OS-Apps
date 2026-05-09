@@ -1,0 +1,32 @@
+{
+  "name": "The Legend of Luke",
+  "assets": [
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Luke/GUID.txt",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Luke/ProjectVersion.txt",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Luke/dependencies.txt",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Luke/index.html",
+    "path": "./TemplateData/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Luke/TemplateData/MemoryProfiler.png",
+    "path": "./TemplateData/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Luke/TemplateData/favicon.ico",
+    "path": "./TemplateData/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Luke/TemplateData/fullscreen-button.png",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Luke/Build/new.data",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Luke/Build/new.framework.js",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Luke/Build/new.loader.js",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Luke/Build/new.wasm.part1",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Luke/Build/new.wasm.part2",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/The%20Legend%20of%20Luke/Build/new.wasm.part3"
+  ],
+  "start": "index.html"
+}

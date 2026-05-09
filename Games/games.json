@@ -670,5 +670,17 @@
       "type": ["Simulator","2D"],
       "maker": "Stef Morojna",
       "description": "Build a rocket and explore the solar system."
+   },
+   {
+      "id": "57",
+      "name": "Terraria",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Terraria/tall-icon.jpg",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Terraria/large-icon.jpg",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Terraria/icon.png",
+      "size": "40MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Terraria/DF.json",
+      "type": ["Sandbox","2D"],
+      "maker": "Re-Logic",
+      "description": "a 2D sandbox action-adventure game centered on exploration, combat, crafting, and building within a vast, randomly generated world"
    }
 ]

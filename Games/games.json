@@ -682,5 +682,18 @@
       "type": ["Sandbox","2D"],
       "maker": "Re-Logic",
       "description": "a 2D sandbox action-adventure game centered on exploration, combat, crafting, and building within a vast, randomly generated world"
+   },
+   {
+      "id": "58",
+      "name": "Binding of Isaac: Wrath of the Lamb",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Binding%20of%20Isaac-%20Wrath%20of%20the%20Lamb/tall-wotl.jpg",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Binding%20of%20Isaac-%20Wrath%20of%20the%20Lamb/large-wotl.jpg",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Binding%20of%20Isaac-%20Wrath%20of%20the%20Lamb/index.png",
+      "size": "42MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Binding%20of%20Isaac-%20Wrath%20of%20the%20Lamb/DF.json",
+      "type": ["Puzzle"],
+      "maker": "Edmund McMillen and Florian Himsl",
+      "description": "The game is easy to pick up—moving with WASD and shooting with arrow keys like a twin-stick shooter. However, the real depth comes from learning enemy patterns and hidden room locations. As you master the game, you unlock new characters like Samson the Berserker, new endings, and specialized Challenge Modes that provide even more content to master."
    }
+
 ]

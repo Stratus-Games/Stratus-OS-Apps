@@ -1,0 +1,32 @@
+{
+  "name": "10-103 Null Kevin",
+  "assets": [
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10-103%20Null%20Kevin/index.html",
+    "path": "./TemplateData/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10-103%20Null%20Kevin/TemplateData/UnityProgress.js",
+    "path"": "./TemplateData/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10-103%20Null%20Kevin/TemplateData/favicon.ico",
+    "path": "./TemplateData/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10-103%20Null%20Kevin/TemplateData/fullscreen.png",
+    "path": "./TemplateData/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10-103%20Null%20Kevin/TemplateData/progressEmpty.Dark.png",
+    "path": "./TemplateData/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10-103%20Null%20Kevin/TemplateData/progressFull.Dark.png",
+    "path": "./TemplateData/,
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10-103%20Null%20Kevin/TemplateData/progressLogo.Dark.png",
+    "path": "./TemplateData/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10-103%20Null%20Kevin/TemplateData/style.css",
+    "path": "./TemplateData/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10-103%20Null%20Kevin/TemplateData/webgl-logo.png",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10-103%20Null%20Kevin/Build/103NK_Html5.json",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10-103%20Null%20Kevin/Build/103NK_Html5.wasm.code.unityweb",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10-103%20Null%20Kevin/Build/103NK_Html5.wasm.framework.unityweb",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/10-103%20Null%20Kevin/Build/UnityLoader.js"
+  ],
+  "start": "index.html"
+}

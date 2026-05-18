@@ -718,5 +718,17 @@
       "type": ["FPS", "Horror"],
       "maker": "Nerdspartan",
       "description": "explore a remote, unstable facility and uncover what went wrong after communications break down."
-   }
+   },
+    {
+       "id": "61",
+       "name": "Bike Champ",
+       "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bike%20Champ/Tall-BC.png",
+       "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bike%20Champ/Large-BC.png",
+       "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bike%20Champ/index.png",
+       "size": "38MB",
+       "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bike%20Champ/DF.json",
+       "type": ["Simulation"],
+       "maker": "2DPLAY",
+       "description": "A challenging physics-based bike game where you navigate tricky obstacle courses, balance carefully, and master precise controls to reach the finish without crashing."
+    }
 ]

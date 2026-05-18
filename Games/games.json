@@ -730,5 +730,17 @@
        "type": ["Simulation"],
        "maker": "2DPLAY",
        "description": "A challenging physics-based bike game where you navigate tricky obstacle courses, balance carefully, and master precise controls to reach the finish without crashing."
-    }
+    },
+   {
+      "id": "62",
+      "name": "Bloons Tower Defense 2",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bloons%20Tower%20Defense%202/Tall-icon.png",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bloons%20Tower%20Defense%202/Large-icon.png",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bloons%20Tower%20Defense%202/index.png",
+      "size": "37MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bloons%20Tower%20Defense%202/DF.json",
+      "type": ["Simulation"],
+      "maker": "Ninja Kiwi",
+      "Description": "a classic Flash tower defense game released in 2007, where players use monkey towers to stop waves of colorful bloons. The studio later expanded the franchise into one of the most popular tower defense series in gaming.",
+   }
 ]

@@ -790,5 +790,17 @@
       "type": ["Simulation"],
       "maker": "Ninja Kiwi",
       "description": "Ninja KiwPlayers use monkey towers to stop waves of colorful bloons."
+   },
+   {
+      "id": "67",
+      "name": "Bucha Blocks",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bucha%20Blocks/Tall-BB.png",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bucha%20Blocks/Large-BB.png",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bucha%20Blocks/index.png",
+      "size": "7MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bucha%20Blocks/DF.json",
+      "type": ["Jumper"],
+      "maker": "Bucha",
+      "description": "A Game Made By a Youtuber"
    }
 ]

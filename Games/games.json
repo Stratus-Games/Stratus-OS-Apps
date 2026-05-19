@@ -810,7 +810,8 @@
       "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Celeste/Large-C.avif",
       "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Celeste/index.png",
       "size": "750MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Celeste/DF.json",
       "maker": "Maddy Makes Games",
-      "description": " single-player platformer video game developed and published by Maddy Makes Games."
+      "description": "single-player platformer video game developed and published by Maddy Makes Games."
    }
 ]

@@ -811,7 +811,20 @@
       "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Celeste/index.png",
       "size": "750MB",
       "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Celeste/DF.json",
+      "type": ["Indie"],
       "maker": "Maddy Makes Games",
       "description": "single-player platformer video game developed and published by Maddy Makes Games."
+   },
+   {
+      "id": "69",
+      "name": "DELTATRAVELER",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/DEALTATRAVELER/Tall-D.png",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/DEALTATRAVELER/Large-D.png",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/DEALTATRAVELER/index.png",
+      "size": "250MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/DEALTATRAVELER/DF.json",
+      "type": ["Simulation"],
+      "maker": "vyletbunni",
+      "description": "hilariously and cleverly drops Kris, Susie, and Noelle into completely different video game worlds instead of normal Dark Worlds."
    }
 ]

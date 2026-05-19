@@ -802,5 +802,15 @@
       "type": ["Jumper"],
       "maker": "Bucha",
       "description": "A Game Made By a Youtuber"
+   },
+   {
+      "id": "68",
+      "name": "Celeste",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Celeste/Tall-icon.png",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Celeste/Large-C.avif",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Celeste/index.png",
+      "size": "750MB",
+      "maker": "Maddy Makes Games",
+      "description": " single-player platformer video game developed and published by Maddy Makes Games."
    }
 ]

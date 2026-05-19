@@ -741,6 +741,18 @@
       "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bloons%20Tower%20Defense%202/DF.json",
       "type": ["Simulation"],
       "maker": "Ninja Kiwi",
-      "description": "A classic Flash tower defense game released in 2007, where players use monkey towers to stop waves of colorful bloons. The franchise later became one of the most popular tower defense series in gaming."
+      "description": "A classic Flash tower defense game released in 2007, where players use monkey towers to stop waves of colorful bloons."
+   },
+   {
+      "id": "63",
+      "name": "Bloons Tower Defense 3",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bloons%20Tower%20Defense%203/Tall-BTD3.png",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bloons%20Tower%20Defense%203/Large-BTD3.png",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bloons%20Tower%20Defense%203/index.png",
+      "size": "38MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bloons%20Tower%20Defense%203/DF.json",
+      "type": ["Simulation"],
+      "maker": "Ninja Kiwi",
+      "description": " players use monkey towers to stop waves of colorful bloons."
    }
 ]

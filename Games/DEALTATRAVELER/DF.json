@@ -33,7 +33,7 @@
     "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/DEALTATRAVELER/Build/DELTAWEBGL.wasm.unityweb.part3",
     "path": "./Build/",
     "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/DEALTATRAVELER/Build/DELTAWEBGL.wasm.unityweb.part4",
-    "path":" "./Build/",
+    "path": "./Build/",
     "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/DEALTATRAVELER/Build/DELTAWEBGL.wasm.unityweb.part5"
   ],
   "start": "index.html"

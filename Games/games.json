@@ -778,5 +778,17 @@
       "type": ["Simulation"],
       "maker": "Ninja Kiwi", 
       "description": "Players use monkey towers to stop waves of colorful bloons."
+   },
+   {
+      "id": "66",
+      "name": "Bloons Tower Defense",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bloons%20Tower%20Defense/Tall-BTD.png",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bloons%20Tower%20Defense/Large-BTD.png",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bloons%20Tower%20Defense/index.png",
+      "size": "36MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Bloons%20Tower%20Defense/DF.json",
+      "type": ["Simulation"],
+      "maker": "Ninja Kiwi",
+      "description": "Ninja KiwPlayers use monkey towers to stop waves of colorful bloons."
    }
 ]

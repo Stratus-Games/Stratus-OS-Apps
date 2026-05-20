@@ -836,7 +836,8 @@
       "size": "53MB",
       "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Dominator/DF.json",
       "type": ["Gambaling"],
+      "maker": "Kawakubo",
       "description": "Gamble Away"
    }
-      "maker": "Kawakubo",
+      
 ]

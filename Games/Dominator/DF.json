@@ -1,0 +1,24 @@
+{
+  "name": "Dominatoir",
+  "assets": [
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Dominator/htmlgame.js",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Dominator/index.html",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Dominator/index.js",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Dominator/index.manifest.json",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Dominator/index.pck",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Dominator/index.png",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Dominator/index.wasm.part1",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Dominator/index.wasm.part2",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Dominator/manifest.json"
+  ],
+  "start": "index.html"
+}

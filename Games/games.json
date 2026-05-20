@@ -826,5 +826,17 @@
       "type": ["Simulation"],
       "maker": "vyletbunni",
       "description": "hilariously and cleverly drops Kris, Susie, and Noelle into completely different video game worlds instead of normal Dark Worlds."
+   },
+   {
+      "id": "70",
+      "name": "Dominatoir",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Dominator/Tall-D.png",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Dominator/Large-D.png",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Dominator/index.png",
+      "size": "53MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Dominator/DF.json",
+      "type": ["Gambaling"],
+      "description": "Gamble Away"
    }
+      "maker": "Kawakubo",
 ]

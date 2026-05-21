@@ -838,6 +838,17 @@
       "type": ["Gambaling"],
       "maker": "Kawakubo",
       "description": "Gamble Away"
+   },
+   {
+      "id": "71",
+      "name": "Draw Climber",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Draw%20Climber/Tall-DC.png",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Draw%20Climber/Large-DC.png",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Draw%20Climber/index.png",
+      "size": "5MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Draw%20Climber/DF.json",
+      "type": ["Jumper"],
+      "maker": "UNKNOWN",
+      "description": "Reach the End"
    }
-      
 ]

@@ -36,7 +36,7 @@
     "path": "./json/",
     "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Snow%20Rider%203D/json/null.json",
     "path": "./json/",
-    "https://github.com/Stratus-Games/Stratus-OS-Apps/blob/main/Games/Snow%20Rider%203D/json/ping.json"
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Snow%20Rider%203D/json/ping.json"
   ],
   "start": "index.html",
 }

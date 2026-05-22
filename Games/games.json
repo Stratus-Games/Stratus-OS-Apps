@@ -850,5 +850,17 @@
       "type": ["Jumper"],
       "maker": "UNKNOWN",
       "description": "Reach the End"
+   },
+   {
+      "id": "72",
+      "name": "Snow Rider 3D",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Snow%20Rider%203D/Tall-SR3.jpg",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Snow%20Rider%203D/Large-SR3.jpg",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Snow%20Rider%203D/snow-rider-3d.png",
+      "size": "13MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Snow%20Rider%203D/DF.json",
+      "type": ["Jumper"],
+      "maker": "GemGamer Studio",
+      "description": "DONT CRASH"
    }
 ]

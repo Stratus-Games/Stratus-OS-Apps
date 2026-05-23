@@ -874,5 +874,17 @@
       "type": ["Indie", "Horror"],
       "maker": "Logan West",
       "description": "a retro-style indie horror game where players act as beta testers for an unfinished 1980s computer game"
+   },
+   {
+      "id": "74",
+      "name"; "OvO",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Ovo/Tall-O.png",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Ovo/Large-O.png",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Ovo/index.jpg",
+      "size": "40MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Ovo/DF.json",
+      "type": ["Runner"],
+      "maker": "Dedra Games",
+      "description": "Make it to the next level"
    }
 ]

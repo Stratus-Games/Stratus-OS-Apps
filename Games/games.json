@@ -886,5 +886,17 @@
       "type": ["Runner"],
       "maker": "Dedra Games",
       "description": "Make it to the next level"
+   },
+   {
+      "id": "75",
+      "name": "Animal Crossing",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Animal%20Crossing%20GC/Tall-AC.jpg",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Animal%20Crossing%20GC/Large-AC.jpg",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Animal%20Crossing%20GC/index.jpg",
+      "size": "27MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Animal%20Crossing%20GC/DF.json",
+      "type": ["GameCube", "Exploration"],
+      "maker": "Nintendo",
+      "description": "Explore the World of Animal Crossing"
    }
 ]

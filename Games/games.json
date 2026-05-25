@@ -898,5 +898,17 @@
       "type": ["GameCube", "Exploration"],
       "maker": "Nintendo",
       "description": "Explore the World of Animal Crossing"
+   },
+   {
+      "id": "76",
+      "name": "Granny",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Granny/Tall-G.jpg",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Granny/Large-G.jpg",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Granny/index.jpg",
+      "size": "590MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Granny/DF.json",
+      "type": ["Horror"],
+      "maker": "Dennis Vukanovic",
+      "description": "Escape from Granny's House"
    }
 ]

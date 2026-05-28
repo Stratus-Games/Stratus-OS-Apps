@@ -910,5 +910,17 @@
       "type": ["Horror"],
       "maker": "Dennis Vukanovic",
       "description": "Escape from Granny's House"
+   },
+   {
+      "id": "77",
+      "name": "Space Wave",
+      "tall-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Space%20Waves/Tall-SW.jpg",
+      "large-icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Space%20Waves/Large-SW.jpg",
+      "icon": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Space%20Waves/index.jpg",
+      "size": "11MB",
+      "install": "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Space%20Waves/DF.json",
+      "type": ["Jumper"],
+      "maker": "Paul Connor",
+      "description": "How Far can you go?"
    }
 ]

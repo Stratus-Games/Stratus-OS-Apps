@@ -1,0 +1,24 @@
+{
+  "name": "Space Waves",
+  "assets": [
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Space%20Waves/index.html",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Space%20Waves/logo.png",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Space%20Waves/microsoftDataMigrationDO.js",
+    "path": "./",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Space%20Waves/msstart-v1.0.0-rc.13.min.js",
+    "path": "./TemplateData/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Space%20Waves/TemplateData/style.css",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Space%20Waves/Build/568ea6b3af616bd57f419c508c933303.data.unityweb",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Space%20Waves/Build/7fb5141de5923189bc1dc5f94eb619f2.wasm.unityweb",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Space%20Waves/Build/c699bc4c24abfbdb4c8b3e15b0af7d3f.framework.js.unityweb",
+    "path": "./Build/",
+    "https://raw.githubusercontent.com/Stratus-Games/Stratus-OS-Apps/refs/heads/main/Games/Space%20Waves/Build/dae5c7bd2b15915f51ae4e56b8f5367d.loader.js"
+  ],
+  "start": "index.html"
+}
